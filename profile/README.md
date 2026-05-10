@@ -2,7 +2,7 @@
 
 영선북스 도서의 예제 코드, 실습 자료, 보조 프로젝트를 관리하는 공식 GitHub 조직입니다.
 
-현재 **92개 시리즈**의 실행 가능한 예제 코드를 공개하고 있습니다. 모든 예제는 ko/en 양 언어로 제공되며 pytest로 검증됩니다.
+현재 **94개 시리즈**의 실행 가능한 예제 코드를 공개하고 있습니다. 모든 예제는 ko/en 양 언어로 제공되며 pytest로 검증됩니다.
 
 ## 인프라 저장소
 
@@ -93,7 +93,7 @@
 | [testing-101](https://github.com/yeongseon-books/testing-101) | Unit, Integration, E2E, Test Double, Mock, Coverage, CI 연동까지 테스트 전략 전반을 다루는 시리즈. |
 | [web-development-101](https://github.com/yeongseon-books/web-development-101) | HTML/CSS/JS, 브라우저, HTTP, 프론트/백엔드, 인증, DB, 배포까지 웹 개발 전체 흐름을 한 번에 보는 시리즈. |
 
-### 데이터베이스 · ORM
+### 데이터 사이언스 · ML 기초
 
 | 시리즈 | 설명 |
 |---|---|
@@ -108,7 +108,7 @@
 | [sql-101](https://github.com/yeongseon-books/sql-101) | SELECT, JOIN, GROUP BY, subquery, window function, DML, index 기초까지 분석/개발에 바로 쓰는 SQL 입문 ... |
 | [statistics-101](https://github.com/yeongseon-books/statistics-101) | 기술 통계, 분포, 추정, 신뢰구간, 가설검정, 회귀까지 데이터 분석에 필요한 통계의 큰 그림을 다지는 시리즈. |
 
-### 데이터 사이언스 / ML 기초
+### 데이터베이스 · ORM
 
 | 시리즈 | 설명 |
 |---|---|
@@ -153,6 +153,13 @@
 | 시리즈 | 설명 |
 |---|---|
 | [technical-writing-101](https://github.com/yeongseon-books/technical-writing-101) | 독자 정의부터 발행 전 체크리스트까지, 기술 글쓰기의 기본을 다지는 시리즈. |
+| [technical-writing](https://github.com/yeongseon-books/technical-writing) | 기술 글쓰기 실전 시리즈. |
+
+### 기타
+
+| 시리즈 | 설명 |
+|---|---|
+| [ax-practical-guide](https://github.com/yeongseon-books/ax-practical-guide) | Ax 실험 최적화 프레임워크 실전 가이드. |
 
 ## 예제 코드 규약
 
